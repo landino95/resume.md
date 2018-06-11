@@ -23,12 +23,12 @@ Skills & Abilities
 
 Experience
 ----------
-## Customer Support | Precision Exams | Nov 2016 - Present
+### Customer Support | Precision Exams | Nov 2016 - Present
 * Responsible for all customer support needs
 * Completed multiple including instructional videos, FAQ's, and customer trainings
 * Updated exam content
 
-## Debt Collector | Aldous & Associates, PLLC.
+### Debt Collector | Aldous & Associates, PLLC.
 * Made 35 calls an hour
 * Collected $4,000 a week
 * Helped traing new employees
