@@ -13,14 +13,16 @@ Education
 * Major: Computer Science
 * Junior-level classes
 
-### Skills & Abilities
+Skills & Abilities
+------------------
 * Experience in C++, C#, HTML, CSS and Linux
 * Developed API for Dynamics 365
 * Excellent verbal communication
 * Collaborate and work well with peers
 * Confident and successful in communicating ideas
 
-### Experience
+Experience
+----------
 ## Customer Support | Precision Exams | Nov 2016 - Present
 * Responsible for all customer support needs
 * Completed multiple including instructional videos, FAQ's, and customer trainings
@@ -32,7 +34,8 @@ Education
 * Helped traing new employees
 * Entrusted with sensitive customer information
 
-## References
+References
+----------
 * Jena Wood, Manager - Precision Exams
 801-653-9356
 * Tyler Rice, Owner - Aldous & Associates
